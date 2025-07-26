@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "Milk, Eggs, Bread, Coffee",
+    "category": "Personal",
+    "priority": "High",
+    "status": "Pending",
+    "image": "https://picsum.photos/seed/groceries/80/80"
+  },
+  {
+    "id": 2,
+    "title": "Team standup meeting",
+    "description": "Daily sync with product team",
+    "category": "Work",
+    "priority": "Medium",
+    "status": "Completed",
+    "image": "https://picsum.photos/seed/meeting/80/80"
+  },
+  {
+    "id": 3,
+    "title": "Workout",
+    "description": "30-minute run in the park",
+    "category": "Health",
+    "priority": "Low",
+    "status": "Pending",
+    "image": "https://picsum.photos/seed/workout/80/80"
+  },
+  {
+    "id": 4,
+    "title": "Project report submission",
+    "description": "Submit Q2 project report to manager",
+    "category": "Work",
+    "priority": "High",
+    "status": "Pending",
+    "image": "https://picsum.photos/seed/report/80/80"
+  },
+  {
+    "id": 5,
+    "title": "Call mom",
+    "description": "Catch up on weekend plans",
+    "category": "Personal",
+    "priority": "Medium",
+    "status": "Completed",
+    "image": "https://picsum.photos/seed/mom/80/80"
+  },
+  {
+    "id": 6,
+    "title": "Doctor appointment",
+    "description": "Annual health checkup",
+    "category": "Health",
+    "priority": "High",
+    "status": "Pending",
+    "image": "https://picsum.photos/seed/doctor/80/80"
+  },
+  {
+    "id": 7,
+    "title": "Read a book",
+    "description": "Finish 'Atomic Habits'",
+    "category": "Personal",
+    "priority": "Low",
+    "status": "Completed",
+    "image": "https://picsum.photos/seed/book/80/80"
+  },
+  {
+    "id": 8,
+    "title": "Client call",
+    "description": "Discuss new requirements with client",
+    "category": "Work",
+    "priority": "High",
+    "status": "Completed",
+    "image": "https://picsum.photos/seed/client/80/80"
+  },
+  {
+    "id": 9,
+    "title": "Plan vacation",
+    "description": "Research destinations and book flights",
+    "category": "Personal",
+    "priority": "Medium",
+    "status": "Pending",
+    "image": "https://picsum.photos/seed/vacation/80/80"
+  },
+  {
+    "id": 10,
+    "title": "Review pull requests",
+    "description": "Go through open PRs on GitHub",
+    "category": "Work",
+    "priority": "High",
+    "status": "Pending",
+    "image": "https://picsum.photos/seed/pr/80/80"
+  },
+  {
+    "id": 11,
+    "title": "Yoga session",
+    "description": "Attend evening yoga class",
+    "category": "Health",
+    "priority": "Medium",
+    "status": "Completed",
+    "image": "https://picsum.photos/seed/yoga/80/80"
+  },
+  {
+    "id": 12,
+    "title": "Pay utility bills",
+    "description": "Settle water and electricity bills online",
+    "category": "Personal",
+    "priority": "High",
+    "status": "Pending",
+    "image": "https://picsum.photos/seed/bills/80/80"
+  },
+  {
+    "id": 13,
+    "title": "Team brainstorming",
+    "description": "Ideas for Q3 product features",
+    "category": "Work",
+    "priority": "Medium",
+    "status": "Pending",
+    "image": "https://picsum.photos/seed/brainstorm/80/80"
+  },
+  {
+    "id": 14,
+    "title": "Grocery shopping",
+    "description": "Get fruits, veggies, and snacks",
+    "category": "Personal",
+    "priority": "Low",
+    "status": "Completed",
+    "image": "https://picsum.photos/seed/grocery2/80/80"
+  },
+  {
+    "id": 15,
+    "title": "Dentist appointment",
+    "description": "Routine dental cleaning",
+    "category": "Health",
+    "priority": "Medium",
+    "status": "Pending",
+    "image": "https://picsum.photos/seed/dentist/80/80"
+  },
+  {
+    "id": 16,
+    "title": "Write blog post",
+    "description": "Draft article on productivity tips",
+    "category": "Personal",
+    "priority": "Low",
+    "status": "Pending",
+    "image": "https://picsum.photos/seed/blog/80/80"
+  },
+  {
+    "id": 17,
+    "title": "Sprint review",
+    "description": "Review completed tasks with the team",
+    "category": "Work",
+    "priority": "High",
+    "status": "Completed",
+    "image": "https://picsum.photos/seed/sprint/80/80"
+  },
+  {
+    "id": 18,
+    "title": "Meditation",
+    "description": "10-minute morning meditation",
+    "category": "Health",
+    "priority": "Low",
+    "status": "Completed",
+    "image": "https://picsum.photos/seed/meditate/80/80"
+  }
+]
